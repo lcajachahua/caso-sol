@@ -1,0 +1,6 @@
+{
+  "id": "bf6a52b3-b595-43f8-ac4f-24fb41a85c65",
+  "name": "Modelo LightGBM",
+  "description": "Modelo utilizando el algoritmo LightGBM",
+  "language": "python"
+}
